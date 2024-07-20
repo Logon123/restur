@@ -1,12 +1,11 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import './Navbar.css';
-//import fastfood from './assets/fastfood.png'; // Adjust the path as necessary
-import logonew from './assets/logo_new.png'; // Adjust the path as necessary
+import logonew from './assets/logo_newCopy1.png';
 
 const NavBar = () => {
   return (
-    <Navbar expand="lg">
+    <Navbar expand="lg" collapseOnSelect bg="danger" variant="dark">
       <Navbar.Brand href="#home">
         <img
           src={logonew}
@@ -16,12 +15,12 @@ const NavBar = () => {
           className="d-inline-block align-top"
         />
       </Navbar.Brand>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
-      <Navbar.Collapse id="basic-navbar-nav">
+      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+      <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ms-auto navy">
           <Nav.Link className="nav-link-spacing" href="#header">Home</Nav.Link>
           <Nav.Link className="nav-link-spacing" href="#about">About</Nav.Link>
-          <Nav.Link className="nav-link-spacing" href="#services">Services</Nav.Link>
+          <Nav.Link className="nav-link-spacing" href="#menu">Menu</Nav.Link>
           <Nav.Link className="nav-link-spacing" href="#products">Products</Nav.Link>
           <Nav.Link className="nav-link-spacing" href="#footer">Contact</Nav.Link>
         </Nav>
