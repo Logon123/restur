@@ -25,4 +25,11 @@
     font-size: 18px;
     color: yellow; /* Additional styling, if needed */
   }
-  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      margin-top: 10px; /* Adjust spacing for mobile */
+    }
+    .nav-link-spacing {
+      margin-right: 10px; /* Adjust spacing between links */
+    }
+  }
