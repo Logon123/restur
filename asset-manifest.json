@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restur/static/css/main.b415f44d.css",
+    "main.js": "/restur/static/js/main.f1dd4180.js",
+    "static/media/22.png": "/restur/static/media/22.66af86d6f359b2f55bbf.png",
+    "static/media/northIndianImg.png": "/restur/static/media/northIndianImg.aa0050811bb8bba3e1a4.png",
+    "static/media/southIndianImg.png": "/restur/static/media/southIndianImg.acf5bc895bad5eb35d23.png",
+    "static/media/mainImg.png": "/restur/static/media/mainImg.7d3eb234fc6e7bac9b9f.png",
+    "static/media/8.png": "/restur/static/media/8.d7a0b193224bb5a321fd.png",
+    "static/media/banner.png": "/restur/static/media/banner.5a5dbac9c8af73874160.png",
+    "static/media/southdish.jpg": "/restur/static/media/southdish.4260829d48b3f218a1cc.jpg",
+    "static/media/pata.png": "/restur/static/media/pata.dff7090f5ab12ab4cb90.png",
+    "static/media/logo_newCopy1.png": "/restur/static/media/logo_newCopy1.c8b4d91c03cb98321204.png",
+    "index.html": "/restur/index.html",
+    "main.b415f44d.css.map": "/restur/static/css/main.b415f44d.css.map",
+    "main.f1dd4180.js.map": "/restur/static/js/main.f1dd4180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b415f44d.css",
+    "static/js/main.f1dd4180.js"
+  ]
+}
