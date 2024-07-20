@@ -1,0 +1,22 @@
+/* ImageSlider.css */
+.carousel-inner img {
+    max-height: 450px;
+    object-fit: cover;
+    margin-top: 10px;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+  }
+  .carousel-inner img {
+    width: 100%;          /* Ensures the image takes full width */
+    height: auto;        /* Maintains aspect ratio */
+    max-height: 500px;   /* Adjust based on your design */
+    object-fit: cover;   /* Ensures image covers the area */
+  }
+
+  #carouselExample {
+    overflow: hidden;
+  }
+  

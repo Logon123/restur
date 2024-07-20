@@ -1,0 +1,62 @@
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .img-shake {
+    animation: shake 0.5s ease-in-out infinite;
+  }
+  
+  #header {
+    background-color: #f8f9fa;
+  }
+  
+  .descr {
+    color: #555;
+    font-size: 1.1rem;
+  }
+  
+  h3 {
+    margin-top: 1.5rem;
+    color: #333;
+  }
+/* Header.css */
+#header {
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  h1 {
+    color: #dc3545; /* Bootstrap danger color */
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #333; /* Darker color for headings */
+  }
+  
+  .img-fluid {
+    transition: transform 0.3s ease; /* Smooth transition */
+    margin-bottom: 1rem; /* Add space below the image */
+    margin-right: 1rem;
+    border-radius: 30px;
+    animation: shake 4s ease-in-out infinite; 
+    border-radius: 25px;
+    border:#f8f9fa 1px solid;
+  }
+  
+  .img-fluid:hover {
+    transform: scale(1.1); /* Zoom effect */
+    border-radius: 40px;
+    margin-right: 1rem;
+    margin-bottom: 50px;
+
+  }
+  .display-4{
+    margin-bottom: 30px;
+  }
+  .descr{
+    text-align: justify;
+  }

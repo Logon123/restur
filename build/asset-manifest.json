@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf0ae736.css",
+    "main.js": "/static/js/main.66c6cd1b.js",
+    "static/media/22.png": "/static/media/22.66af86d6f359b2f55bbf.png",
+    "static/media/northIndianImg.png": "/static/media/northIndianImg.aa0050811bb8bba3e1a4.png",
+    "static/media/southIndianImg.png": "/static/media/southIndianImg.acf5bc895bad5eb35d23.png",
+    "static/media/mainImg.png": "/static/media/mainImg.7d3eb234fc6e7bac9b9f.png",
+    "static/media/8.png": "/static/media/8.d7a0b193224bb5a321fd.png",
+    "static/media/pata.png": "/static/media/pata.dff7090f5ab12ab4cb90.png",
+    "static/media/logo_new.png": "/static/media/logo_new.7aaba8d2041b4cbc16a9.png",
+    "index.html": "/index.html",
+    "main.cf0ae736.css.map": "/static/css/main.cf0ae736.css.map",
+    "main.66c6cd1b.js.map": "/static/js/main.66c6cd1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0ae736.css",
+    "static/js/main.66c6cd1b.js"
+  ]
+}

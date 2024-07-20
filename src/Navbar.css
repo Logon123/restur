@@ -1,0 +1,28 @@
+/*    Git Bash Code for Directory   cd "/c/Program Files/nodejs/newweb" */
+
+.navbar {
+    background-color: #dc3545; /* Bootstrap danger color */
+  }
+  
+  .navbar .nav-link-spacing {
+    color: white !important; /* Ensure default text color */
+    transition: color 0.3s; /* Smooth transition */
+    margin-right: 8rem; /* Adjust margin as needed */
+  }
+  
+  .navbar .nav-link-spacing:hover {
+    color: gold !important; /* Hover text color */
+    border-radius: 10px;
+    font-size: 20px;
+    transition: color 0.3s;
+  }
+  
+  .d-inline-block {
+    margin-left: 50px; /* Adjust as needed */
+  }
+  
+  .navy {
+    font-size: 18px;
+    color: yellow; /* Additional styling, if needed */
+  }
+  

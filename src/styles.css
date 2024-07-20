@@ -1,0 +1,37 @@
+#about {
+    background-color: #f8f9fa;
+  }
+  
+  img {
+    border-radius: 10px;
+  }
+  .animate__animated.animate__flash{
+    --animate-duration: 2.5s;
+    
+    
+  }
+  .animate__animated.animate__fadeInRight{
+    --animate-duration: 3s;
+  }
+
+  .pattta{
+    margin-top: -450px;
+    border:red;
+    width: 250px;
+    position: absolute;
+  }
+
+  @media screen and (max-width:768px)  { 
+    .pattta{margin-left: 20px;
+    
+            }       }
+  .mission{
+    text-align: justify;
+  }
+  .img-fluid.msne{
+    border-radius: 80px;
+  }
+
+  .msne{
+    margin-top:  -50px;
+  }
